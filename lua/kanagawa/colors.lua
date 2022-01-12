@@ -3,7 +3,7 @@ local palette_colors = {
     -- Bg Shades
     sumiInk0      = "#16161D",
     sumiInk1b     = "#181820",
-    sumiInk1      = "#1F1F28",
+    sumiInk1      = "#232731",
     sumiInk2      = "#2A2A37",
     sumiInk3      = "#363646",
     sumiInk4      = "#54546D",
@@ -22,7 +22,7 @@ local palette_colors = {
     autumnYellow  = "#DCA561",
 
     -- Diag
-    samuraiRed    = "#E82424",
+    samuraiRed    = "#f44747",
     roninYellow   = "#FF9E3B",
     waveAqua1     = "#6A9589",
     dragonBlue    = "#658594",
@@ -33,7 +33,7 @@ local palette_colors = {
     fujiGray      = "#727169",
     springViolet1 = "#938AA9",
 
-    oniViolet     = "#957FB8",
+    oniViolet     = "#b48ead",
     crystalBlue   = "#7E9CD8",
     springViolet2 = "#9CABCA",
     springBlue    = "#7FB4CA",
