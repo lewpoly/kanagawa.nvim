@@ -17,7 +17,7 @@ local palette_colors = {
     winterYellow  = "#49443C",
     winterRed     = "#43242B",
     winterBlue    = "#252535",
-    autumnGreen   = "#76946A",
+    autumnGreen   = "#a3be8c",
     autumnRed     = "#C34043",
     autumnYellow  = "#DCA561",
 
@@ -45,7 +45,7 @@ local palette_colors = {
     -- waveAqua5  = "#6CAF95",
     -- waveAqua3  = "#68AD99",
 
-    springGreen   = "#98BB6C",
+    aurOrange     = "#d08770",
     boatYellow1   = "#938056",
     boatYellow2   = "#C0A36E",
     carpYellow    = "#ebcb8b",
@@ -53,7 +53,7 @@ local palette_colors = {
     sakuraPink    = "#D27E99",
     waveRed       = "#E46876",
     peachRed      = "#FF5D62",
-    surimiOrange  = "#FFA066",
+    aurYellow     = "#ebcb8b",
     katanaGray    = "#717C7C",
 }
 

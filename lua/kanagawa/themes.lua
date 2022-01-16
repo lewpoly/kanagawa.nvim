@@ -20,11 +20,11 @@ return {
             fg_dark = colors.oldWhite,
             fg_reverse = colors.waveBlue1,
 
-            fg_comment = colors.fujiGray,
+            fg_comment = colors.autumnGreen,
             fg = colors.fujiWhite,
 
-            co = colors.surimiOrange,
-            st = colors.springGreen,
+            co = colors.aurYellow,
+            st = colors.aurOrange,
             nu = colors.sakuraPink,
             id = colors.carpYellow,
             fn = colors.crystalBlue,
