@@ -33,12 +33,12 @@ local palette_colors = {
     fujiGray      = "#727169",
     springViolet1 = "#938AA9",
 
-    oniViolet     = "#b48ead",
+    aurPurple     = "#b48ead",
     crystalBlue   = "#7E9CD8",
     springViolet2 = "#9CABCA",
     springBlue    = "#7FB4CA",
     lightBlue     = "#A3D4D5", -- unused yet
-    waveAqua2     = "#7AA89F", -- improve lightness: desaturated greenish Aqua
+    aurLightBlue  = "#88c0d0", -- improve lightness: desaturated greenish Aqua
 
     -- waveAqua2  = "#68AD99",
     -- waveAqua4  = "#7AA880",
