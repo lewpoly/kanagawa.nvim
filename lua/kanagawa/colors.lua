@@ -1,12 +1,12 @@
 local palette_colors = {
 
     -- Bg Shades
-    sumiInk0      = "#16161D",
+    sumiInk0      = "#2e3440",
     sumiInk1b     = "#181820",
-    sumiInk1      = "#3d405b",
+    sumiInk1      = "#232731",
     sumiInk2      = "#2A2A37",
     sumiInk3      = "#363646",
-    sumiInk4      = "#54546D",
+    sumiInk4      = "#4b5263",
 
     -- Popup and Floats
     waveBlue1     = "#223249",
@@ -31,7 +31,7 @@ local palette_colors = {
     oldWhite      = "#C8C093",
     fujiWhite     = "#DCD7BA",
     fujiGray      = "#727169",
-    springViolet1 = "#938AA9",
+    springViolet1 = "#506370",
 
     aurPurple     = "#b48ead",
     crystalBlue   = "#7E9CD8",
