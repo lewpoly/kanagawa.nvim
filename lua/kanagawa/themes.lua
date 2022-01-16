@@ -25,8 +25,8 @@ return {
 
             co = colors.aurYellow,
             st = colors.aurOrange,
-            nu = colors.sakuraPink,
-            id = colors.carpYellow,
+            nu = colors.aurLightGreen,
+            id = colors.aurBlue,
             fn = colors.crystalBlue,
             sm = colors.oniViolet,
             kw = colors.oniViolet,

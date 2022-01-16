@@ -48,9 +48,9 @@ local palette_colors = {
     aurOrange     = "#d08770",
     boatYellow1   = "#938056",
     boatYellow2   = "#C0A36E",
-    carpYellow    = "#ebcb8b",
+    aurBlue       = "#5e81ac",
 
-    sakuraPink    = "#D27E99",
+    aurLightGreen = "#b5cea8",
     waveRed       = "#E46876",
     peachRed      = "#FF5D62",
     aurYellow     = "#ebcb8b",
