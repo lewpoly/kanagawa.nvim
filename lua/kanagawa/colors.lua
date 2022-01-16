@@ -3,7 +3,7 @@ local palette_colors = {
     -- Bg Shades
     sumiInk0      = "#16161D",
     sumiInk1b     = "#181820",
-    sumiInk1      = "#232731",
+    sumiInk1      = "#3d405b",
     sumiInk2      = "#2A2A37",
     sumiInk3      = "#363646",
     sumiInk4      = "#54546D",
