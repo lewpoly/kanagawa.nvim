@@ -31,7 +31,7 @@ function M.setup(colors, config)
         SignColumnSB                      = { link = "SignColumn" },
         Substitute                        = { fg = colors.fg, bg = colors.git.removed },
         LineNr                            = { fg = colors.bg_light2 },
-        CursorLineNr                      = { fg = colors.diag.warning, bg = "NONE", style = "bold" },
+        CursorLineNr                      = { fg = colors.fujiWhite, bg = "NONE", style = "bold" },
         MatchParen                        = { fg = colors.diag.warning, bg = "NONE", style = "bold" },
         ModeMsg                           = { fg = colors.diag.warning, style = "bold", bg = "NONE" },
         MsgArea                           = { fg = colors.fg_dark, bg = "NONE" },

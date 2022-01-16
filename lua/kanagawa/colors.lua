@@ -4,7 +4,7 @@ local palette_colors = {
     sumiInk0      = "#2e3440",
     sumiInk1b     = "#181820",
     sumiInk1      = "#232731",
-    sumiInk2      = "#2A2A37",
+    sumiInk2      = "#5c6370",
     sumiInk3      = "#363646",
     sumiInk4      = "#4b5263",
 
